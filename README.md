@@ -1,6 +1,8 @@
 # GitHub Diagrams Example
 
 
+### Example 1
+
  ```mermaid
 graph TD;
   Micro-Frontend-->A1[Defining Micro-Frontends];
